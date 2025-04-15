@@ -1,1 +1,1 @@
-# llm-quiz-platform
+# LLM Powered Quiz
